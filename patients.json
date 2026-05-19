@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Ahmed Ali",
+    "city": "Karachi",
+    "age": 34,
+    "gender": "Male",
+    "height": 1.75,
+    "weight": 95,
+    "bmi": 31.02,
+    "verdict": "obese"
+  },
+  "P002": {
+    "name": "Fatima Zara",
+    "city": "Lahore",
+    "age": 28,
+    "gender": "Female",
+    "height": 1.65,
+    "weight": 55,
+    "bmi": 20.2,
+    "verdict": "normal"
+  },
+  "P003": {
+    "name": "John Doe",
+    "city": "New York",
+    "age": 45,
+    "gender": "Male",
+    "height": 1.8,
+    "weight": 78,
+    "bmi": 24.07,
+    "verdict": "normal"
+  },
+  "P004": {
+    "name": "Ayesha Khan",
+    "city": "Islamabad",
+    "age": 62,
+    "gender": "Female",
+    "height": 1.6,
+    "weight": 68,
+    "bmi": 26.56,
+    "verdict": "overweight"
+  },
+  "P005": {
+    "name": "Michael Smith",
+    "city": "Los Angeles",
+    "age": 19,
+    "gender": "Male",
+    "height": 1.78,
+    "weight": 52,
+    "bmi": 16.42,
+    "verdict": "underweight"
+  }
+}
